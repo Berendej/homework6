@@ -1,5 +1,5 @@
 <map id="n_dim::subscripted_c&lt; T &gt;" name="n_dim::subscripted_c&lt; T &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="85,5,215,46"/>
+<area shape="rect" id="Node000001" title="subscribed_c serves as a common class for proxy_value_c and matrix_c" alt="" coords="85,5,215,46"/>
 <area shape="rect" id="Node000002" href="$d7/d41/classn__dim_1_1matrix__c.html" title="matrix_c implements sparced n&#45;dim matrix having no limits the trick is to use sub level of proxy_valu..." alt="" coords="5,94,140,135"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,60,92,95,88,92,120,56"/>
 <area shape="rect" id="Node000003" href="$da/d17/classn__dim_1_1proxy__value__c.html" title="proxy_value_c serves as a holder of numeric value in matrix. could be empty." alt="" coords="163,94,294,135"/>
