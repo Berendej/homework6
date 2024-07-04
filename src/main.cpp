@@ -105,7 +105,6 @@ void two_dim_demo()
          << m[100][100] << "\n";
 
 //6. Опционально реализовать N-мерную матрицу.
-
 }
 
 /** \brief test_1d() example of n-dimensional matrix usage
