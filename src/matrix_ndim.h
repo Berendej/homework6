@@ -13,7 +13,7 @@ using std::tuple;
 namespace n_dim
 {
 
-/** /brief subscribed_c serves as a common 
+/** \brief subscribed_c serves as a common 
  * class for proxy_value_c and matrix_c
  * 
  *  Purpose: operator[] on the lowest level case should return proxy_value
