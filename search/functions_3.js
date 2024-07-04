@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['iterator_0',['iterator',['../df/dd4/classtwo__dim_1_1row__c_1_1iterator.html#ad711905dad5765df1c95f591530708f1',1,'two_dim::row_c::iterator::iterator(row_c *parent, const i_value_map_t &amp;internal_it)'],['../df/dd4/classtwo__dim_1_1row__c_1_1iterator.html#a03b735d3d026a1e88c699ea5ef3c733c',1,'two_dim::row_c::iterator::iterator(const iterator &amp;bro)'],['../df/dd4/classtwo__dim_1_1row__c_1_1iterator.html#a434e4d69764b7e7841109d37ac0b2a8f',1,'two_dim::row_c::iterator::iterator()'],['../d9/d67/classtwo__dim_1_1matrix__c_1_1iterator.html#a3e575ae4c83d3c69fdbccf9c33836447',1,'two_dim::matrix_c::iterator::iterator(matrix_c *parent, const i_row_map_t &amp;row_it, const row_iterator_t &amp;internal_it)'],['../d9/d67/classtwo__dim_1_1matrix__c_1_1iterator.html#a5d0e4ae2964f994ec141efb926d3137e',1,'two_dim::matrix_c::iterator::iterator(matrix_c *parent)']]]
-];
